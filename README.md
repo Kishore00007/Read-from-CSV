@@ -29,3 +29,4 @@ print(len(df.axes[1]))
 ![output](./1.jpg)
 
 ## RESULT:
+A python program for reading content from a CSV file is written.
